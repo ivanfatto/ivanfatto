@@ -1,6 +1,8 @@
 ## Hi there 👋
-🌱 I’m currently a Master Physics student at University of Trento
-📫 How to reach me: ivan.fattori@studenti.unitn.it
+
+🌱 I’m currently a Master's Physics student at the University of Trento
+
+📫 How to reach me: [ivan.fattori@studenti.unitn.it](mailto:ivan.fattori@studenti.unitn.it)
 
 <!--
 **ivanfatto/ivanfatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +13,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
